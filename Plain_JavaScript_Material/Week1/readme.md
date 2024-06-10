@@ -2,7 +2,8 @@
 
 ## Topics learned in this branch 
 - Declaration of variables in JS
-- Arithematics 
+- Arithematics
+- User input 
 
 
 ## Coding practices 
