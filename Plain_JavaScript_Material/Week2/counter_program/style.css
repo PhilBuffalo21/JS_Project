@@ -1,0 +1,34 @@
+.buttons{
+    border-radius: 5em;
+    background-color: pink;
+    cursor: pointer;
+    transition: 0.75s;
+}
+
+.buttons:hover{
+    background-color: rgb(250, 87, 114);
+}
+
+
+h1{
+    font-size: 3em;
+    font-style: italic;
+    color: black;
+}
+
+h2{
+    font-size: 2em;
+}
+
+#Counter{
+    display: block;
+    text-align: center;
+    font-size: 5em;
+}
+
+#container1{
+    text-align: center;
+}
+
+
+
