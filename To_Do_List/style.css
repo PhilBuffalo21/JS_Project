@@ -1,0 +1,12 @@
+button{
+    background-color: deepskyblue;
+    color: white;
+    cursor: pointer; 
+    font-size: 16px;
+    border-width: 1px;    /* Width of the border */
+    border-style: line; /* Style of the border (solid, dashed, dotted, etc.) */
+    border-color: white; /* Color of the border */    
+}
+button:hover {
+    background-color: deeppink; /* Darker green on hover */
+}
